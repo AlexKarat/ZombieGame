@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/user19_14_2/Documents/Unreal Projects/ZombieGame/Content/VRTemplate/Maps/VRTemplateMap.umap"
+				"C:/Users/user19_14_2/Documents/Unreal Projects/ZombieGame/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/AI/BP_Zombie.uasset"
 			]
 		}
 	]

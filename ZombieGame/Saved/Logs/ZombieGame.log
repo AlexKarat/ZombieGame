@@ -1418,3 +1418,321 @@ The following settings have been applied:
 [2025.10.13-10.32.40:715][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
 [2025.10.13-10.32.40:748][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
 [2025.10.13-10.33.07:307][841]LogDerivedDataCache: C:/Users/user19_14_2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.13-10.34.29:492][388]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.10.13-10.34.29:510][388]LogContentBrowser: Creating deferred item: NewFolder
+[2025.10.13-10.34.29:520][389]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.10.13-10.34.30:364][440]LogContentBrowser: Attempting asset rename: NewFolder -> AI
+[2025.10.13-10.34.30:364][440]LogContentBrowser: End creating deferred item NewFolder
+[2025.10.13-10.34.46:395][674]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.10.13-10.34.46:423][674]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.10.13-10.34.46:438][674]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.10.13-10.34.46:471][676]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.10.13-10.34.50:765][911]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Zombie
+[2025.10.13-10.34.50:795][911]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.10.13-10.36.50:081][367]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 338.656982
+[2025.10.13-10.36.51:079][370]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.13-10.36.51:079][370]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 339.321594, Update Interval: 341.707214
+[2025.10.13-10.41.19:268][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2025.10.13-10.41.19:285][768]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.066
+[2025.10.13-10.41.19:726][768]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_Zombie] ([2] browsable assets)...
+[2025.10.13-10.41.19:993][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_Zombie]
+[2025.10.13-10.41.28:204][768]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/BP_Zombie_Auto1
+[2025.10.13-10.41.28:204][768]LogSavePackage: Moving '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/BP_Zombie_Auto19C325F2241207EFA3B8244AD6471FF78.tmp' to '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/Autosaves/Game/AI/BP_Zombie_Auto1.uasset'
+[2025.10.13-10.41.29:288][768]LogFileHelpers: Auto-saving content packages took 10.003
+[2025.10.13-10.41.47:538][299]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.10.13-10.42.16:491][ 33]LogStreaming: Display: FlushAsyncLoading(363): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.13-10.42.16:605][ 33]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.8.dll
+[2025.10.13-10.42.30:836][ 33]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0 . Response: 
+[2025.10.13-10.42.30:836][ 33]LogZenServiceInstance: Display: Local ZenServer recovery being attempted...
+[2025.10.13-10.42.30:836][ 33]LogZenServiceInstance: Display: Successfully shut down zenserver process with pid 15652
+[2025.10.13-10.42.30:836][ 33]LogZenServiceInstance: No current process using the data dir found, launching a new instance
+[2025.10.13-10.42.30:836][ 33]LogZenServiceInstance: Display: Launching executable 'C:/Users/user19_14_2/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/user19_14_2/AppData/Local/UnrealEngine/Common/Zen/Install', data dir 'C:/Users/user19_14_2/AppData/Local/UnrealEngine/Common/Zen/Data', args '--port 8558 --data-dir "C:\Users\user19_14_2\AppData\Local\UnrealEngine\Common\Zen\Data" --http asio --gc-cache-duration-seconds 1209600 --gc-interval-seconds 21600 --gc-low-diskspace-threshold 2147483648 --quiet --http-forceloopback --owner-pid 8684 --child-id Zen_8684_Startup'
+[2025.10.13-10.42.31:435][ 33]LogZenServiceInstance: Display: Unreal Zen Storage Server HTTP service at [::1]:8558 status: OK!.
+[2025.10.13-10.42.31:435][ 33]LogZenServiceInstance: Display: Local ZenServer recovery finished.
+[2025.10.13-10.42.31:435][ 33]LogZenServiceInstance: Display: Local ZenServer post recovery status: Healthy
+[2025.10.13-10.42.31:458][ 33]LogTexture: Display: Building textures: /Game/ZombieFemale/Asset/Textures/Eyes/WhiteEyeball/T_MaidenEyesWhiteOcclusionRoughnessMetallic.T_MaidenEyesWhiteOcclusionRoughnessMetallic (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.10.13-10.42.31:463][ 33]LogTexture: Display: Building textures: /Game/ZombieFemale/Asset/Textures/Eyes/WhiteEyeball/T_MaidenEyesWhiteNormal.T_MaidenEyesWhiteNormal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 214.499988 MB), EncodeSpeed: Fast
+[2025.10.13-10.42.31:463][ 33]LogTexture: Display: Building textures: /Game/ZombieFemale/Asset/Textures/Eyes/WhiteEyeball/T_MaidenEyesWhiteBaseColor.T_MaidenEyesWhiteBaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.10.13-10.42.31:716][ 33]LogTexture: Display: Building textures: /Game/ZombieFemale/Asset/Textures/Clothing/Nurse/T_MaidenClothingNurseZombieORM.T_MaidenClothingNurseZombieORM (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.10.13-10.42.31:802][ 33]LogTexture: Display: Building textures: /Game/ZombieFemale/Asset/Textures/Clothing/Nurse/T_MaidenClothingNurseZombieNormal.T_MaidenClothingNurseZombieNormal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.10.13-10.42.31:830][ 33]LogTexture: Display: Building textures: /Game/ZombieFemale/Asset/Textures/Clothing/Nurse/T_MaidenClothingNurseZombieBaseColor.T_MaidenClothingNurseZombieBaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.10.13-10.42.32:270][ 33]LogSkeletalMesh: Building Skeletal Mesh ZombieFemale_NurseOutfit...
+[2025.10.13-10.42.33:296][ 33]LogSkeletalMesh: Built Skeletal Mesh [1.03s] /Game/ZombieFemale/Asset/Meshes/ZombieFemale_NurseOutfit.ZombieFemale_NurseOutfit
+[2025.10.13-10.42.33:421][ 33]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/ZombieFemale/Asset/Meshes/ZombieFemale_NurseOutfit.ZombieFemale_NurseOutfit
+[2025.10.13-10.42.33:421][ 33]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/ZombieFemale/Asset/Meshes/ZombieFemale_NurseOutfit.ZombieFemale_NurseOutfit
+[2025.10.13-10.42.33:426][ 33]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ZombieFemale/Asset/Meshes/ZombieFemale_NurseOutfit.ZombieFemale_NurseOutfit as actor: SkeletalMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.SkeletalMeshActor_0
+[2025.10.13-10.42.33:446][ 33]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ZombieFemale/Asset/Meshes/ZombieFemale_NurseOutfit.ZombieFemale_NurseOutfit as actor: SkeletalMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.SkeletalMeshActor_0
+[2025.10.13-10.42.33:507][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.10.13-10.42.33:509][ 33]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.10.13-10.42.33:539][ 33]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/ZombieFemale/Asset/Meshes/ZombieFemale_NurseOutfit.ZombieFemale_NurseOutfit
+[2025.10.13-10.42.33:539][ 33]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/ZombieFemale/Asset/Meshes/ZombieFemale_NurseOutfit.ZombieFemale_NurseOutfit
+[2025.10.13-10.42.33:547][ 33]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ZombieFemale/Asset/Meshes/ZombieFemale_NurseOutfit.ZombieFemale_NurseOutfit as actor: SkeletalMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.SkeletalMeshActor_1
+[2025.10.13-10.42.33:548][ 33]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ZombieFemale/Asset/Meshes/ZombieFemale_NurseOutfit.ZombieFemale_NurseOutfit as actor: SkeletalMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.SkeletalMeshActor_1
+[2025.10.13-10.42.33:562][ 33]LogTexture: Display: Building textures: /Game/ZombieFemale/Asset/Textures/Body/Zombie/T_MaidenZombieBody3Normal.T_MaidenZombieBody3Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.10.13-10.42.33:628][ 33]LogTexture: Display: Building textures: /Game/ZombieFemale/Asset/Textures/Body/Zombie/T_MaidenZombieBody3BaseColor.T_MaidenZombieBody3BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.10.13-10.42.33:679][ 33]LogTexture: Display: Building textures: /Game/ZombieFemale/Asset/Textures/Body/Zombie/T_MaidenZombieBody3ORM.T_MaidenZombieBody3ORM (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.10.13-10.42.34:453][ 39]LogTexture: Display: Building textures: /Game/ZombieFemale/Asset/Textures/Head/Zombie/T_MaidenZombieHead3Normal.T_MaidenZombieHead3Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.10.13-10.42.34:624][ 48]LogTexture: Display: Building textures: /Game/ZombieFemale/Asset/Textures/Head/Zombie/T_MaidenZombieHead3BaseColor.T_MaidenZombieHead3BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.10.13-10.42.34:644][ 49]LogTexture: Display: Building textures: /Game/ZombieFemale/Asset/Textures/Head/Zombie/T_MaidenZombieHead3ORM.T_MaidenZombieHead3ORM (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.10.13-10.42.35:026][ 70]LogTexture: Display: Building textures: /Game/ZombieFemale/Asset/Textures/Hair/Hair/T_hairnormals.T_hairnormals (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.10.13-10.42.35:207][ 80]LogTexture: Display: Building textures: /Game/ZombieFemale/Asset/Textures/Hair/Hair/T_hairopacity.T_hairopacity (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.999984 MB), EncodeSpeed: Fast
+[2025.10.13-10.42.35:210][ 80]LogTexture: Display: Building textures: /Game/ZombieFemale/Asset/Textures/Hair/Hair/T_hairrefao.T_hairrefao (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2025.10.13-10.42.37:885][220]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 686.461487
+[2025.10.13-10.42.38:068][231]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.13-10.42.38:068][231]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 686.628906, Update Interval: 343.131805
+[2025.10.13-10.42.39:974][342]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.10.13-10.42.39:976][342]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_0'.
+[2025.10.13-10.42.40:176][346]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.10.13-10.42.40:177][346]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_1'.
+[2025.10.13-10.42.40:258][349]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.10.13-10.42.40:258][349]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_2'.
+[2025.10.13-10.42.48:577][808]LogStreaming: Display: FlushAsyncLoading(364): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.13-10.42.48:577][808]LogStreaming: Warning: LoadPackage: SkipPackage: /Game/ZombieFemale/Asset/Meshes/SKM_ZombieFemaleClothingCasual01 (0x7B792CF61F0EAF0F) - The package to load does not exist on disk or in the loader
+[2025.10.13-10.42.48:579][808]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/ZombieFemale/Asset/Meshes/SKM_ZombieFemaleClothingCasual01.SKM_ZombieFemaleClothingCasual01'
+[2025.10.13-10.42.48:581][808]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.10.13-10.42.48:581][808]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_3'.
+[2025.10.13-10.42.48:609][809]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.10.13-10.42.48:611][809]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_4'.
+[2025.10.13-10.42.54:178][137]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.13-10.42.54:189][137]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.13-10.42.54:205][137]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.10.13-10.42.54:207][137]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.10.13-10.42.54:208][137]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.10.13-10.42.54:219][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010642s)
+[2025.10.13-10.42.54:219][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.010924s)
+[2025.10.13-10.42.54:231][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.10.13-10.42.54:234][137]LogChaosDD: Creating Chaos Debug Draw Scene for world VRTemplateMap
+[2025.10.13-10.42.54:237][137]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap'.
+[2025.10.13-10.42.54:239][137]LogPlayLevel: PIE: World Init took: (0.004277s)
+[2025.10.13-10.42.54:239][137]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.10.13-10.42.54:240][137]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.13-10.42.54:240][137]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.13-10.42.54:240][137]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.13-10.42.54:240][137]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.13-10.42.54:240][137]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.13-10.42.54:240][137]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.13-10.42.54:240][137]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.13-10.42.54:240][137]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.13-10.42.54:240][137]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.13-10.42.54:240][137]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.13-10.42.54:240][137]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.13-10.42.54:242][137]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.13-10.42.54:255][137]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.10.13-10.42.54:255][137]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.13-10.42.54:255][137]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.13-10.42.54:255][137]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.13-10.42.54:257][137]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.10.13-10.42.54:257][137]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.10.13-10.42.54:258][137]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.10.13-10.42.54:258][137]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.10.13-10.42.54:258][137]LogInit: FAudioDevice initialized with ID 2.
+[2025.10.13-10.42.54:258][137]LogAudio: Display: Audio Device (ID: 2) registered with world 'VRTemplateMap'.
+[2025.10.13-10.42.54:258][137]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.10.13-10.42.54:270][137]LogLoad: Game class is 'VRGameMode_C'
+[2025.10.13-10.42.54:273][137]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'ZombieFemale_NurseOutfit'
+[2025.10.13-10.42.54:294][137]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2025.10.13-12.42.54
+[2025.10.13-10.42.54:295][137]LogWorld: Bringing up level for play took: 0.024415
+[2025.10.13-10.42.54:298][137]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2025.10.13-10.42.54:418][137]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.10.13-10.42.54:418][137]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.10.13-10.42.54:432][137]PIE: Server logged in
+[2025.10.13-10.42.54:432][137]PIE: Play in editor total start time 0.248 seconds.
+[2025.10.13-10.42.54:573][138]LogSlate: Took 0.008670 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.13-10.42.54:717][147]LogNiagaraCompiler: Function call "InitializeParticle" is deprecated. Reason:
+As of 5.3, This version is now fully deprecated and a conversion script will run to attempt to map the existing inputs to the new module. Most configurations should successfully transfer. Double check behavior after the new version is added.
+
+Check the output log for the results of each input conversion..
+Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.InitializeParticle instead. - Node: Initialize Particle - 
+[2025.10.13-10.42.55:083][168]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_TeleportTrace.NS_TeleportTrace took 0.751319 sec (time since issued), 0.664835 sec (combined shader worker time).
+[2025.10.13-10.42.58:718][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.13-10.42.58:718][375]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.10.13-10.42.58:718][375]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.13-10.42.58:721][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.13-10.42.58:727][375]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.13-10.42.58:731][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.13-10.42.58:742][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.13-10.42.58:744][375]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.10.13-10.42.58:745][375]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.10.13-10.42.58:747][375]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.10.13-10.42.58:760][375]LogSlate: Slate User Unregistered.  User Index 8
+[2025.10.13-10.42.58:760][375]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.10.13-10.42.58:765][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.10.13-10.42.58:831][376]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.10.13-10.43.18:081][510]LogShaderCompilers: Display: ================================================
+[2025.10.13-10.43.18:081][510]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.13-10.43.18:081][510]LogShaderCompilers: Display: Total job queries 111, among them cache hits 14 (12.61%), DDC hits 53 (47.75%), Duplicates 2 (1.80%)
+[2025.10.13-10.43.18:081][510]LogShaderCompilers: Display: Tracking 95 distinct input hashes that result in 78 distinct outputs (82.11%)
+[2025.10.13-10.43.18:081][510]LogShaderCompilers: Display: RAM used: 88.17 KiB of 819.20 MiB budget. Usage: 0.01%
+[2025.10.13-10.43.18:081][510]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.13-10.43.18:081][510]LogShaderCompilers: Display: Shaders Compiled: 42
+[2025.10.13-10.43.18:081][510]LogShaderCompilers: Display: Jobs assigned 42, completed 42 (100%)
+[2025.10.13-10.43.18:081][510]LogShaderCompilers: Display: Average time worker was idle: 2.58 s
+[2025.10.13-10.43.18:081][510]LogShaderCompilers: Display: Time job spent in pending queue: average 1.76 s, longest 5.21 s
+[2025.10.13-10.43.18:081][510]LogShaderCompilers: Display: Job execution time: average 1.76 s, max 6.16 s
+[2025.10.13-10.43.18:081][510]LogShaderCompilers: Display: Job life time (pending + execution): average 3.52 s, max 6.48
+[2025.10.13-10.43.18:081][510]LogShaderCompilers: Display: Shader code size: average 12.855 KiB, min 2.887 KiB, max 32.242 KiB
+[2025.10.13-10.43.18:081][510]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 17.14 s
+[2025.10.13-10.43.18:081][510]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.10.13-10.43.18:081][510]LogShaderCompilers: Display: Jobs were issued in 42 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.13-10.43.18:081][510]LogShaderCompilers: Display: Average processing rate: 2.45 jobs/sec
+[2025.10.13-10.43.18:081][510]LogShaderCompilers: Display: Total thread time: 46.339 s
+[2025.10.13-10.43.18:081][510]LogShaderCompilers: Display: Total thread preprocess time: 2.408 s
+[2025.10.13-10.43.18:081][510]LogShaderCompilers: Display: Percentage time preprocessing: 5.20%
+[2025.10.13-10.43.18:081][510]LogShaderCompilers: Display: Effective parallelization: 2.70 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.13-10.43.18:083][510]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.13-10.43.18:083][510]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    5 times, average 2.78 sec, max 3.10 sec, min 2.39 sec)
+[2025.10.13-10.43.18:083][510]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 2.29 sec, max 2.29 sec, min 2.27 sec)
+[2025.10.13-10.43.18:083][510]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 2.22 sec, max 2.24 sec, min 2.19 sec)
+[2025.10.13-10.43.18:083][510]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.12 sec, max 1.12 sec, min 1.12 sec)
+[2025.10.13-10.43.18:083][510]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 1.07 sec, max 1.07 sec, min 1.07 sec)
+[2025.10.13-10.43.18:083][510]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.13-10.43.18:083][510]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 30.01% of total time (compiled    5 times, average 2.78 sec, max 3.10 sec, min 2.39 sec)
+[2025.10.13-10.43.18:083][510]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.80% of total time (compiled    3 times, average 2.29 sec, max 2.29 sec, min 2.27 sec)
+[2025.10.13-10.43.18:083][510]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 14.37% of total time (compiled    3 times, average 2.22 sec, max 2.24 sec, min 2.19 sec)
+[2025.10.13-10.43.18:083][510]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 5.66% of total time (compiled    5 times, average 0.52 sec, max 0.55 sec, min 0.49 sec)
+[2025.10.13-10.43.18:083][510]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 4.61% of total time (compiled    2 times, average 1.07 sec, max 1.07 sec, min 1.07 sec)
+[2025.10.13-10.43.18:083][510]LogShaderCompilers: Display: === Material stats ===
+[2025.10.13-10.43.18:083][510]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.13-10.43.18:083][510]LogShaderCompilers: Display: Materials Translated:    143
+[2025.10.13-10.43.18:083][510]LogShaderCompilers: Display: Material Total Translate Time: 0.08 s
+[2025.10.13-10.43.18:083][510]LogShaderCompilers: Display: Material Translation Only: 0.04 s (45%)
+[2025.10.13-10.43.18:083][510]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.10.13-10.43.18:083][510]LogShaderCompilers: Display: Material Cache Hits: 21 (15%)
+[2025.10.13-10.43.18:083][510]LogShaderCompilers: Display: ================================================
+[2025.10.13-10.44.11:082][580]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BP_Zombie.BP_Zombie
+[2025.10.13-10.44.11:085][580]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.10.13-10.44.11:085][580]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_5'.
+[2025.10.13-10.44.11:279][580]LogStreaming: Display: FlushAsyncLoading(367): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.13-10.44.13:005][580]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2025.10.13-10.44.13:006][580]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2025.10.13-10.44.31:120][605]LogSlate: Took 0.006594 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.10.13-10.44.31:138][605]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.10.13-10.44.31:186][607]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.10.13-10.44.31:186][607]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_6'.
+[2025.10.13-10.44.38:877][ 59]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.10.13-10.44.38:877][ 59]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_7'.
+[2025.10.13-10.44.45:843][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.10.13-10.44.46:626][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.13-10.44.46:688][508]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AI/BP_Zombie] ([2] browsable assets)...
+[2025.10.13-10.44.46:695][508]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_Zombie.BP_Zombie]
+[2025.10.13-10.44.46:695][508]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.10.13-10.44.46:695][508]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_8'.
+[2025.10.13-10.44.46:705][508]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/AI/BP_Zombie.BP_Zombie_C]
+[2025.10.13-10.44.46:705][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_Zombie]
+[2025.10.13-10.44.46:705][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_Zombie" FILE="../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/AI/BP_Zombie.uasset" SILENT=true
+[2025.10.13-10.44.46:710][508]LogSavePackage: Moving output files for package: /Game/AI/BP_Zombie
+[2025.10.13-10.44.46:710][508]LogSavePackage: Moving '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/BP_ZombieEB60A1624693B4A6E58ABBAFD7D5C912.tmp' to '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/AI/BP_Zombie.uasset'
+[2025.10.13-10.44.46:722][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.037 ms
+[2025.10.13-10.44.46:795][508]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.13-10.44.46:795][508]LogContentValidation: Enabled validators:
+[2025.10.13-10.44.46:795][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.13-10.44.46:795][508]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.13-10.44.46:795][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.13-10.44.46:795][508]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.13-10.44.46:795][508]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.13-10.44.46:795][508]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.13-10.44.46:797][508]AssetCheck: /Game/AI/BP_Zombie Validating asset
+[2025.10.13-10.44.50:038][690]LogSlate: Window 'BP_Zombie' being destroyed
+[2025.10.13-10.45.13:605][578]LogSlate: Took 0.008131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.10.13-10.45.24:793][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.10.13-10.45.37:195][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.10.13-10.45.37:901][886]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.13-10.45.37:964][886]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_Zombie] ([2] browsable assets)...
+[2025.10.13-10.45.37:970][886]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_Zombie.BP_Zombie]
+[2025.10.13-10.45.37:970][886]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_Zombie]
+[2025.10.13-10.45.37:970][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_Zombie" FILE="../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/AI/BP_Zombie.uasset" SILENT=true
+[2025.10.13-10.45.37:973][886]LogSavePackage: Moving output files for package: /Game/AI/BP_Zombie
+[2025.10.13-10.45.37:975][886]LogSavePackage: Moving '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/BP_Zombie655E66074BF0B66B66DE9694072CF70B.tmp' to '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/AI/BP_Zombie.uasset'
+[2025.10.13-10.45.37:982][886]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.485 ms (total: 178.523 ms)
+[2025.10.13-10.45.38:051][886]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.13-10.45.38:051][886]LogContentValidation: Enabled validators:
+[2025.10.13-10.45.38:051][886]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.13-10.45.38:051][886]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.13-10.45.38:051][886]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.13-10.45.38:051][886]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.13-10.45.38:051][886]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.13-10.45.38:051][886]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.13-10.45.38:051][886]AssetCheck: /Game/AI/BP_Zombie Validating asset
+[2025.10.13-10.45.58:898][340]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.10.13-10.46.21:284][796]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.10.13-10.46.21:295][796]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.10.13-10.46.21:296][796]LogShaderCompilers: Display: ================================================
+[2025.10.13-10.46.21:296][796]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.13-10.46.21:296][796]LogShaderCompilers: Display: Total job queries 113, among them cache hits 15 (13.27%), DDC hits 53 (46.90%), Duplicates 2 (1.77%)
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display: Tracking 96 distinct input hashes that result in 79 distinct outputs (82.29%)
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display: RAM used: 88.55 KiB of 819.20 MiB budget. Usage: 0.01%
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display: Shaders Compiled: 43
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display: Jobs assigned 43, completed 43 (100%)
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display: Average time worker was idle: 5.24 s
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display: Time job spent in pending queue: average 1.72 s, longest 5.21 s
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display: Job execution time: average 1.77 s, max 6.16 s
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display: Job life time (pending + execution): average 3.50 s, max 6.48
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display: Shader code size: average 13.211 KiB, min 2.887 KiB, max 32.242 KiB
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.63 s
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display: Jobs were issued in 43 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display: Average processing rate: 2.19 jobs/sec
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display: Total thread time: 48.211 s
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display: Total thread preprocess time: 2.443 s
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display: Percentage time preprocessing: 5.07%
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display: Effective parallelization: 2.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    5 times, average 2.78 sec, max 3.10 sec, min 2.39 sec)
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 2.22 sec, max 2.24 sec, min 2.19 sec)
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 2.18 sec, max 2.29 sec, min 1.87 sec)
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.12 sec, max 1.12 sec, min 1.12 sec)
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 1.07 sec, max 1.07 sec, min 1.07 sec)
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 28.84% of total time (compiled    5 times, average 2.78 sec, max 3.10 sec, min 2.39 sec)
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.11% of total time (compiled    4 times, average 2.18 sec, max 2.29 sec, min 1.87 sec)
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 13.81% of total time (compiled    3 times, average 2.22 sec, max 2.24 sec, min 2.19 sec)
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 5.44% of total time (compiled    5 times, average 0.52 sec, max 0.55 sec, min 0.49 sec)
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 4.43% of total time (compiled    2 times, average 1.07 sec, max 1.07 sec, min 1.07 sec)
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display: === Material stats ===
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display: Materials Translated:    145
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display: Material Translation Only: 0.04 s (45%)
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display: Material Cache Hits: 21 (14%)
+[2025.10.13-10.46.21:297][796]LogShaderCompilers: Display: ================================================
+[2025.10.13-10.46.21:302][796]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.10.13-10.46.21:313][797]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.10.13-10.46.31:090][383]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Zombie_Ai_Controller
+[2025.10.13-10.46.31:097][383]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.10.13-10.46.32:895][489]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Zombie_Ai_Controller.BP_Zombie_Ai_Controller
+[2025.10.13-10.46.32:895][489]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.10.13-10.46.32:895][489]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_9'.
+[2025.10.13-10.46.41:733][636]LogSlate: Took 0.007470 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.13-10.48.27:848][577]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1036.427124
+[2025.10.13-10.48.28:014][587]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.13-10.48.28:014][587]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1036.576294, Update Interval: 331.573853
+[2025.10.13-10.48.31:727][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.10.13-10.48.32:474][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.13-10.48.32:532][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_Zombie] ([2] browsable assets)...
+[2025.10.13-10.48.32:540][848]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_Zombie.BP_Zombie]
+[2025.10.13-10.48.32:540][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_Zombie]
+[2025.10.13-10.48.32:540][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_Zombie" FILE="../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/AI/BP_Zombie.uasset" SILENT=true
+[2025.10.13-10.48.32:542][848]LogSavePackage: Moving output files for package: /Game/AI/BP_Zombie
+[2025.10.13-10.48.32:544][848]LogSavePackage: Moving '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/BP_Zombie502B361B479DA6B548817EA6FEA3BF39.tmp' to '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/AI/BP_Zombie.uasset'
+[2025.10.13-10.48.32:552][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.749 ms (total: 258.272 ms)
+[2025.10.13-10.48.32:620][848]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.13-10.48.32:620][848]LogContentValidation: Enabled validators:
+[2025.10.13-10.48.32:620][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.13-10.48.32:620][848]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.13-10.48.32:620][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.13-10.48.32:620][848]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.13-10.48.32:620][848]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.13-10.48.32:620][848]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.13-10.48.32:620][848]AssetCheck: /Game/AI/BP_Zombie Validating asset
+[2025.10.13-10.53.14:813][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2025.10.13-10.53.14:845][288]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto2
+[2025.10.13-10.53.14:845][288]LogSavePackage: Moving '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/VRTemplateMap_Auto238D7876B445A9FD36F67789B7DDF856F.tmp' to '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto2.umap'
+[2025.10.13-10.53.14:846][288]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.056
+[2025.10.13-10.53.14:846][288]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.056
+[2025.10.13-10.53.14:848][288]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_Zombie_Ai_Controller] ([2] browsable assets)...
+[2025.10.13-10.53.14:848][288]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Zombie_Ai_Controller]
+[2025.10.13-10.53.14:849][288]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_Zombie_Ai_Controller_Auto2
+[2025.10.13-10.53.14:849][288]LogSavePackage: Moving '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/BP_Zombie_Ai_Controller_Auto287ABAEF84BD66ACAB05C47B341BFEE1C.tmp' to '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/Autosaves/Game/BP_Zombie_Ai_Controller_Auto2.uasset'
+[2025.10.13-10.53.14:851][288]LogFileHelpers: Auto-saving content packages took 0.004
