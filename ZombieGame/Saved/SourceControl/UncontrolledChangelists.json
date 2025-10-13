@@ -5,7 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/user19_14_2/Documents/Unreal Projects/ZombieGame/Content/VRTemplate/Maps/VRTemplateMap.umap"
+				"C:/Users/user19_14_2/Documents/Unreal Projects/ZombieGame/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/AI/BP_Zombie.uasset",
+				"C:/Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/Blueprints/BP_Zombie_Ai_Controller.uasset",
+				"C:/Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/VRTemplate/Blueprints/Projectile.uasset",
+				"C:/Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/BP_Zombie_Ai_Controller.uasset"
 			]
 		}
 	]
