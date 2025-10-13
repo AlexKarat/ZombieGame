@@ -7,6 +7,13 @@
 			"files": [
 				"C:/Users/user24_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
 				"C:/Users/user24_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/user24_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/MyWeapon/BP_AK47.uasset",
+				"C:/Users/user24_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/MyWeapon/BP_AR4.uasset",
+				"C:/Users/user24_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/MyWeapon/BP_SMG11.uasset",
+				"C:/Users/user24_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/VRTemplate/Blueprints/Pistol.uasset",
+				"C:/Users/user24_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/Sounds/Ak47_sound_effect.uasset",
+				"C:/Users/user24_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/Sounds/AR_15_sound_effects.uasset",
+				"C:/Users/user24_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/Sounds/SMG-11_with_suppressor_sound_effect.uasset",
 				"C:/Users/user24_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/FPS_Weapon_Bundle/Weapons/Meshes/G67_Grenade/SM_G67_X.uasset",
 				"C:/Users/user24_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/FPS_Weapon_Bundle/Weapons/Meshes/G67_Grenade/SM_G67_Thrown.uasset",
 				"C:/Users/user24_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/FPS_Weapon_Bundle/Weapons/Meshes/G67_Grenade/SM_G67.uasset",
@@ -47,9 +54,6 @@
 				"C:/Users/user24_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/FPS_Weapon_Bundle/Weapons/Meshes/KA_Val/SM_KA_Val_Mag_Y.uasset",
 				"C:/Users/user24_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/FPS_Weapon_Bundle/Weapons/Meshes/KA_Val/SM_KA_Val_X.uasset",
 				"C:/Users/user24_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/FPS_Weapon_Bundle/Weapons/Meshes/KA_Val/SM_KA_Val_Y.uasset",
-				"C:/Users/user24_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/MyWeapon/BP_AK47.uasset",
-				"C:/Users/user24_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/MyWeapon/BP_AR4.uasset",
-				"C:/Users/user24_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/MyWeapon/BP_SMG11.uasset",
 				"C:/Users/user19_14_2/Documents/Unreal Projects/ZombieGame/Content/VRTemplate/Maps/VRTemplateMap.umap"
 			]
 		}
