@@ -13040,3 +13040,6 @@ FPackageName: Skipped package /Game/Village/Materials/MI_PowerPole_Snowy has a v
 [2025.10.14-13.43.58:901][439]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
 [2025.10.14-13.43.58:901][439]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
 [2025.10.14-13.43.58:902][439]LogPakFile: Destroying PakPlatformFile
+[2025.10.14-13.44.00:137][439]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.10.14-13.44.00:842][439]LogExit: Exiting.
+[2025.10.14-13.44.02:135][439]Log file closed, 10/14/25 15:44:02
