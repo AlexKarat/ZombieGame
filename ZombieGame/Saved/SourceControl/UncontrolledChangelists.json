@@ -12,6 +12,11 @@
 				"C:/Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/VRTemplate/Blueprints/VRPawn.uasset",
 				"C:/Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/Blueprints/ABP_Zombie.uasset",
 				"C:/Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/ZombieFemale/Asset/Animations/ANMS_ZombieFemaleWalk01Forward.uasset",
+				"C:/Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/MyWeapon/BP_AK47.uasset",
+				"C:/Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/Blueprints/AI/BP_Zombie.uasset",
+				"C:/Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/Blueprints/AI/BP_ZombieCharacter.uasset",
+				"C:/Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/Blueprints/Animation/ABP_ZombieBlend.uasset",
+				"C:/Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/Blueprints/Animation/ABP_Zombie.uasset",
 				"C:/Users/user19_14_2/Documents/Unreal Projects/ZombieGame/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"C:/Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/BP_Zombie_Ai_Controller.uasset"
 			]
