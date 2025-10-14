@@ -4511,3 +4511,6 @@ The following settings have been applied:
 [2025.10.14-08.35.42:728][548]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
 [2025.10.14-08.35.42:728][548]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
 [2025.10.14-08.35.42:728][548]LogPakFile: Destroying PakPlatformFile
+[2025.10.14-08.35.43:109][548]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.10.14-08.35.43:178][548]LogExit: Exiting.
+[2025.10.14-08.35.43:223][548]Log file closed, 10/14/25 10:35:43
