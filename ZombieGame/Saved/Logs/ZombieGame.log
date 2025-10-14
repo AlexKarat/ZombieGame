@@ -14375,3 +14375,74 @@ FPackageName: Skipped package /Game/Village/Materials/MI_PowerPole_Snowy has a v
 [2025.10.14-14.50.12:550][337]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.14-14.50.12:550][337]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.14-14.50.12:550][337]AssetCheck: /Game/Landscape Validating asset
+[2025.10.14-14.51.06:516][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.14-14.51.06:516][682]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Landscape
+[2025.10.14-14.51.06:523][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006665s)
+[2025.10.14-14.51.06:523][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Landscape.Landscape to /Game/UEDPIE_0_Landscape.Landscape (0.006720s)
+[2025.10.14-14.51.06:540][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.10.14-14.51.06:542][682]LogChaosDD: Creating Chaos Debug Draw Scene for world Landscape
+[2025.10.14-14.51.06:543][682]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/UEDPIE_0_Landscape.Landscape'.
+[2025.10.14-14.51.06:543][682]LogPlayLevel: PIE: World Init took: (0.001543s)
+[2025.10.14-14.51.06:543][682]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.10.14-14.51.06:543][682]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.14-14.51.06:543][682]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.14-14.51.06:543][682]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.14-14.51.06:543][682]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.14-14.51.06:543][682]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.14-14.51.06:543][682]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.14-14.51.06:543][682]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.14-14.51.06:543][682]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.14-14.51.06:543][682]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.14-14.51.06:543][682]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.14-14.51.06:543][682]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.14-14.51.06:547][682]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.14-14.51.06:609][682]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.10.14-14.51.06:609][682]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.14-14.51.06:609][682]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.14-14.51.06:609][682]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.14-14.51.06:610][682]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.10.14-14.51.06:610][682]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.10.14-14.51.06:613][682]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.10.14-14.51.06:613][682]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.10.14-14.51.06:613][682]LogInit: FAudioDevice initialized with ID 15.
+[2025.10.14-14.51.06:613][682]LogAudio: Display: Audio Device (ID: 15) registered with world 'Landscape'.
+[2025.10.14-14.51.06:613][682]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.10.14-14.51.06:616][682]LogLoad: Game class is 'VRGameMode_C'
+[2025.10.14-14.51.06:618][682]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.10.14-14.51.06:625][682]LogWorld: Bringing World /Game/UEDPIE_0_Landscape.Landscape up for play (max tick rate 60) at 2025.10.14-16.51.06
+[2025.10.14-14.51.06:626][682]LogWorld: Bringing up level for play took: 0.010030
+[2025.10.14-14.51.06:629][682]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2025.10.14-14.51.06:631][682]PIE: Server logged in
+[2025.10.14-14.51.06:632][682]PIE: Play in editor total start time 0.117 seconds.
+[2025.10.14-14.51.50:650][285]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3993.776611
+[2025.10.14-14.51.50:816][295]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-14.51.50:816][295]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3993.926758, Update Interval: 308.190552
+[2025.10.14-14.52.17:510][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-14.52.17:510][875]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Landscape
+[2025.10.14-14.52.17:511][875]LogWorld: UWorld::CleanupWorld for Landscape, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-14.52.17:513][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-14.52.17:517][875]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.14-14.52.17:523][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-14.52.17:548][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-14.52.17:549][875]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.10.14-14.52.17:549][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.10.14-14.52.17:551][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.10.14-14.52.17:559][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.10.14-14.52.17:620][876]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2025.10.14-14.52.43:321][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.10.14-14.52.43:941][435]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-14.52.44:010][435]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Animation/ABP_Zombie] ([2] browsable assets)...
+[2025.10.14-14.52.44:024][435]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Animation/ABP_Zombie.ABP_Zombie]
+[2025.10.14-14.52.44:024][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animation/ABP_Zombie]
+[2025.10.14-14.52.44:029][435]LogSavePackage: Moving output files for package: /Game/Blueprints/Animation/ABP_Zombie
+[2025.10.14-14.52.44:030][435]LogSavePackage: Moving '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/ABP_ZombieCC060473494E0D7ED45F8ABA579786D9.tmp' to '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/Blueprints/Animation/ABP_Zombie.uasset'
+[2025.10.14-14.52.44:039][435]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.129 ms (total: 1.10 sec)
+[2025.10.14-14.52.44:110][435]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-14.52.44:110][435]LogContentValidation: Enabled validators:
+[2025.10.14-14.52.44:110][435]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-14.52.44:110][435]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-14.52.44:110][435]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-14.52.44:110][435]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-14.52.44:110][435]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-14.52.44:110][435]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-14.52.44:110][435]AssetCheck: /Game/Blueprints/Animation/ABP_Zombie Validating asset
