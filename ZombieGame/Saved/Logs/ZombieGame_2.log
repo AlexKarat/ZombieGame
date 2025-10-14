@@ -2030,3 +2030,16 @@ Make sure '/Game/VRTemplate/Blueprints/Pistol.Pistol' has been compiled for  Set
 [2025.10.14-10.53.29:015][454]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
 [2025.10.14-10.53.29:017][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
 [2025.10.14-10.53.29:145][455]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.10.14-10.58.58:233][765]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1387.405884
+[2025.10.14-10.58.59:232][768]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-10.58.59:232][768]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1388.071655, Update Interval: 344.860382
+[2025.10.14-10.59.01:108][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.14-10.59.01:110][773]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.024
+[2025.10.14-10.59.01:110][773]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VRTemplate/Blueprints/Pistol] ([2] browsable assets)...
+[2025.10.14-10.59.01:110][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/Pistol]
+[2025.10.14-10.59.01:121][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/Pistol_Auto2
+[2025.10.14-10.59.01:121][773]LogSavePackage: Moving '../../../../../../Users/user04_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/Pistol_Auto2CE9EA7B142BC856C7C4DC594AF708002.tmp' to '../../../../../../Users/user04_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/Autosaves/Game/VRTemplate/Blueprints/Pistol_Auto2.uasset'
+[2025.10.14-10.59.01:123][773]LogFileHelpers: Auto-saving content packages took 0.013
+[2025.10.14-11.05.03:969][858]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1753.140137
+[2025.10.14-11.05.04:969][860]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-11.05.04:969][860]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1753.806152, Update Interval: 314.365051
