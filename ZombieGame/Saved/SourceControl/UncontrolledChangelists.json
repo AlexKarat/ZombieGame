@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/Landscape.umap"
+				"C:/Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/Landscape.umap",
+				"C:/Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/Sounds/zombieminecraftsoun.uasset",
+				"C:/Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/Sounds/zombieminecraftsoun_Cue.uasset",
+				"C:/Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/Blueprints/AI/BP_ZombieCharacter.uasset"
 			]
 		}
 	]
