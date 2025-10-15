@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/user11_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/Landscape.umap",
+				"C:/Users/user11_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/Endgame.uasset",
 				"C:/Users/user04_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"C:/Users/user04_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/VRTemplate/Blueprints/Projectile.uasset",
 				"C:/Users/user04_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/UI/NewBlueprint.uasset",
