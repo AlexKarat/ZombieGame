@@ -2188,3 +2188,142 @@ FPackageName: Skipped package /Game/Village/Materials/MI_PowerPole_Snowy has a v
 [2025.10.15-08.33.58:527][964]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.15-08.33.58:527][964]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.15-08.33.58:527][964]AssetCheck: /Game/Blueprints/AI/BP_ZombieCharacter Validating asset
+[2025.10.15-08.35.57:496][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.15-08.35.57:497][838]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Landscape
+[2025.10.15-08.35.57:509][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011450s)
+[2025.10.15-08.35.57:509][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Landscape.Landscape to /Game/UEDPIE_0_Landscape.Landscape (0.011529s)
+[2025.10.15-08.35.57:531][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.10.15-08.35.57:535][838]LogChaosDD: Creating Chaos Debug Draw Scene for world Landscape
+[2025.10.15-08.35.57:536][838]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/UEDPIE_0_Landscape.Landscape'.
+[2025.10.15-08.35.57:536][838]LogPlayLevel: PIE: World Init took: (0.001782s)
+[2025.10.15-08.35.57:537][838]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.10.15-08.35.57:537][838]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.15-08.35.57:537][838]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.15-08.35.57:537][838]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.15-08.35.57:537][838]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.15-08.35.57:537][838]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.15-08.35.57:537][838]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.15-08.35.57:537][838]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.15-08.35.57:537][838]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.15-08.35.57:537][838]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.15-08.35.57:537][838]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.15-08.35.57:537][838]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.15-08.35.57:540][838]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.15-08.35.57:584][838]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.10.15-08.35.57:585][838]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.15-08.35.57:585][838]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.15-08.35.57:585][838]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.15-08.35.57:586][838]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.10.15-08.35.57:586][838]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.10.15-08.35.57:587][838]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.10.15-08.35.57:587][838]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.10.15-08.35.57:587][838]LogInit: FAudioDevice initialized with ID 3.
+[2025.10.15-08.35.57:587][838]LogAudio: Display: Audio Device (ID: 3) registered with world 'Landscape'.
+[2025.10.15-08.35.57:589][838]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.10.15-08.35.57:626][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.15-08.36.42:810][838]LogLoad: Game class is 'VRGameMode_C'
+[2025.10.15-08.36.42:815][838]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.10.15-08.36.42:824][838]LogWorld: Bringing World /Game/UEDPIE_0_Landscape.Landscape up for play (max tick rate 0) at 2025.10.15-10.36.42
+[2025.10.15-08.36.42:824][838]LogWorld: Bringing up level for play took: 0.012438
+[2025.10.15-08.36.42:827][838]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.10.15-08.36.42:837][838]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.10.15-08.36.42:837][838]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.10.15-08.36.42:845][838]xr.SecondaryScreenPercentage.HMDRenderTarget = "100"
+[2025.10.15-08.36.42:849][838]PIE: Server logged in
+[2025.10.15-08.36.42:851][838]PIE: Play in editor total start time 45.355 seconds.
+[2025.10.15-08.36.42:855][838]LogHMD: Warning: Input Action IA_Hand_Point_Right has a Description, "", which exactly matches the Description already used by Action IA_Hand_Point_Left.  Identical localized descriptions are not allowed by OpenXR.  The FName of this action IA_Hand_Point_Right, which is unique, will replace the localized string so that the input Action functions but it will not localize correctly.
+[2025.10.15-08.36.42:855][838]LogHMD: Warning: Input Action IA_Hand_ThumbUp_Left has a Description, "", which exactly matches the Description already used by Action IA_Hand_Point_Left.  Identical localized descriptions are not allowed by OpenXR.  The FName of this action IA_Hand_ThumbUp_Left, which is unique, will replace the localized string so that the input Action functions but it will not localize correctly.
+[2025.10.15-08.36.42:855][838]LogHMD: Warning: Input Action IA_Hand_ThumbUp_Right has a Description, "", which exactly matches the Description already used by Action IA_Hand_Point_Left.  Identical localized descriptions are not allowed by OpenXR.  The FName of this action IA_Hand_ThumbUp_Right, which is unique, will replace the localized string so that the input Action functions but it will not localize correctly.
+[2025.10.15-08.36.42:855][838]LogHMD: Warning: Input Action IA_Hand_Grasp_Left has a Description, "", which exactly matches the Description already used by Action IA_Hand_Point_Left.  Identical localized descriptions are not allowed by OpenXR.  The FName of this action IA_Hand_Grasp_Left, which is unique, will replace the localized string so that the input Action functions but it will not localize correctly.
+[2025.10.15-08.36.42:855][838]LogHMD: Warning: Input Action IA_Hand_Grasp_Right has a Description, "", which exactly matches the Description already used by Action IA_Hand_Point_Left.  Identical localized descriptions are not allowed by OpenXR.  The FName of this action IA_Hand_Grasp_Right, which is unique, will replace the localized string so that the input Action functions but it will not localize correctly.
+[2025.10.15-08.36.42:855][838]LogHMD: Warning: Input Action IA_Hand_IndexCurl_Left has a Description, "", which exactly matches the Description already used by Action IA_Hand_Point_Left.  Identical localized descriptions are not allowed by OpenXR.  The FName of this action IA_Hand_IndexCurl_Left, which is unique, will replace the localized string so that the input Action functions but it will not localize correctly.
+[2025.10.15-08.36.42:855][838]LogHMD: Warning: Input Action IA_Hand_IndexCurl_Right has a Description, "", which exactly matches the Description already used by Action IA_Hand_Point_Left.  Identical localized descriptions are not allowed by OpenXR.  The FName of this action IA_Hand_IndexCurl_Right, which is unique, will replace the localized string so that the input Action functions but it will not localize correctly.
+[2025.10.15-08.36.42:855][838]LogHMD: Warning: Input Mapping Context IMC_Menu has a Description, "", which exactly matches the Description already used by Input Mapping Context IMC_Hands.  Identical localized descriptions are not allowed by OpenXR.  The FName of this mapping context IMC_Menu, which is unique, will replace the duplicated localized string so the Input Mapping Context functions but it will not localize correctly.
+[2025.10.15-08.36.42:855][838]LogHMD: Warning: Input Action IA_Menu_Interact_Right_Pressed has a Description, "", which exactly matches the Description already used by Action IA_Menu_Interact_Left_Pressed.  Identical localized descriptions are not allowed by OpenXR.  The FName of this action IA_Menu_Interact_Right_Pressed, which is unique, will replace the localized string so that the input Action functions but it will not localize correctly.
+[2025.10.15-08.36.42:855][838]LogHMD: Warning: Input Action IA_Menu_Cursor_Left has a Description, "", which exactly matches the Description already used by Action IA_Menu_Interact_Left_Pressed.  Identical localized descriptions are not allowed by OpenXR.  The FName of this action IA_Menu_Cursor_Left, which is unique, will replace the localized string so that the input Action functions but it will not localize correctly.
+[2025.10.15-08.36.42:855][838]LogHMD: Warning: Input Action IA_Menu_Cursor_Right has a Description, "", which exactly matches the Description already used by Action IA_Menu_Interact_Left_Pressed.  Identical localized descriptions are not allowed by OpenXR.  The FName of this action IA_Menu_Cursor_Right, which is unique, will replace the localized string so that the input Action functions but it will not localize correctly.
+[2025.10.15-08.36.42:855][838]LogHMD: Warning: Input Mapping Context IMC_Weapon_Left has a Description, "", which exactly matches the Description already used by Input Mapping Context IMC_Hands.  Identical localized descriptions are not allowed by OpenXR.  The FName of this mapping context IMC_Weapon_Left, which is unique, will replace the duplicated localized string so the Input Mapping Context functions but it will not localize correctly.
+[2025.10.15-08.36.42:855][838]LogHMD: Warning: Input Mapping Context IMC_Weapon_Right has a Description, "", which exactly matches the Description already used by Input Mapping Context IMC_Hands.  Identical localized descriptions are not allowed by OpenXR.  The FName of this mapping context IMC_Weapon_Right, which is unique, will replace the duplicated localized string so the Input Mapping Context functions but it will not localize correctly.
+[2025.10.15-08.36.42:934][838]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2025.10.15-08.36.42:953][838]LogRenderer: Warning: Resizing VR buffer to 3648 by 1968
+[2025.10.15-08.36.43:470][839]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2025.10.15-08.36.49:429][926]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2025.10.15-08.36.55:757][ 35]LogBlueprintUserMessages: [Projectile_C_0] Hello
+[2025.10.15-08.36.55:757][ 35]LogBlueprintUserMessages: [Projectile_C_0] BOHHHH
+[2025.10.15-08.36.55:757][ 35]LogBlueprintUserMessages: [BP_ZombieCharacter_C_1] Zombie: receive projectile hit called , hit ammount =
+[2025.10.15-08.36.55:954][ 38]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1421.761719
+[2025.10.15-08.36.56:227][ 43]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-08.36.56:227][ 43]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1421.978027, Update Interval: 350.994598
+[2025.10.15-08.36.56:295][ 44]LogBlueprintUserMessages: [Projectile_C_1] Hello
+[2025.10.15-08.36.56:295][ 44]LogBlueprintUserMessages: [Projectile_C_1] BOHHHH
+[2025.10.15-08.36.56:295][ 44]LogBlueprintUserMessages: [BP_ZombieCharacter_C_1] Zombie: receive projectile hit called , hit ammount =
+[2025.10.15-08.36.56:642][ 50]LogBlueprintUserMessages: [Projectile_C_2] Hello
+[2025.10.15-08.36.56:642][ 50]LogBlueprintUserMessages: [Projectile_C_2] BOHHHH
+[2025.10.15-08.36.56:642][ 50]LogBlueprintUserMessages: [BP_ZombieCharacter_C_1] Zombie: receive projectile hit called , hit ammount =
+[2025.10.15-08.37.17:866][435]LogBlueprintUserMessages: [Projectile_C_3] Hello
+[2025.10.15-08.37.17:866][435]LogBlueprintUserMessages: [Projectile_C_3] cast failed
+[2025.10.15-08.37.17:936][436]LogBlueprintUserMessages: [Projectile_C_4] Hello
+[2025.10.15-08.37.17:936][436]LogBlueprintUserMessages: [Projectile_C_4] cast failed
+[2025.10.15-08.37.17:994][437]LogBlueprintUserMessages: [Projectile_C_5] Hello
+[2025.10.15-08.37.17:994][437]LogBlueprintUserMessages: [Projectile_C_5] cast failed
+[2025.10.15-08.37.18:536][446]LogBlueprintUserMessages: [Projectile_C_6] Hello
+[2025.10.15-08.37.18:536][446]LogBlueprintUserMessages: [Projectile_C_6] cast failed
+[2025.10.15-08.37.19:806][468]LogBlueprintUserMessages: [Projectile_C_11] Hello
+[2025.10.15-08.37.19:806][468]LogBlueprintUserMessages: [Projectile_C_11] cast failed
+[2025.10.15-08.37.20:061][472]LogBlueprintUserMessages: [Projectile_C_7] Hello
+[2025.10.15-08.37.20:061][472]LogBlueprintUserMessages: [Projectile_C_7] cast failed
+[2025.10.15-08.37.20:451][478]LogBlueprintUserMessages: [Projectile_C_10] Hello
+[2025.10.15-08.37.20:451][478]LogBlueprintUserMessages: [Projectile_C_10] cast failed
+[2025.10.15-08.37.20:451][478]LogBlueprintUserMessages: [Projectile_C_13] Hello
+[2025.10.15-08.37.20:451][478]LogBlueprintUserMessages: [Projectile_C_13] cast failed
+[2025.10.15-08.37.20:575][480]LogBlueprintUserMessages: [Projectile_C_12] Hello
+[2025.10.15-08.37.20:575][480]LogBlueprintUserMessages: [Projectile_C_12] cast failed
+[2025.10.15-08.37.20:630][481]LogBlueprintUserMessages: [Projectile_C_9] Hello
+[2025.10.15-08.37.20:630][481]LogBlueprintUserMessages: [Projectile_C_9] cast failed
+[2025.10.15-08.37.20:744][483]LogBlueprintUserMessages: [Projectile_C_14] Hello
+[2025.10.15-08.37.20:744][483]LogBlueprintUserMessages: [Projectile_C_14] cast failed
+[2025.10.15-08.37.20:874][485]LogBlueprintUserMessages: [Projectile_C_8] Hello
+[2025.10.15-08.37.20:874][485]LogBlueprintUserMessages: [Projectile_C_8] cast failed
+[2025.10.15-08.37.21:052][488]LogBlueprintUserMessages: [Projectile_C_16] Hello
+[2025.10.15-08.37.21:052][488]LogBlueprintUserMessages: [Projectile_C_16] cast failed
+[2025.10.15-08.37.21:462][495]LogBlueprintUserMessages: [Projectile_C_18] Hello
+[2025.10.15-08.37.21:462][495]LogBlueprintUserMessages: [Projectile_C_18] cast failed
+[2025.10.15-08.37.21:462][495]LogBlueprintUserMessages: [Projectile_C_15] Hello
+[2025.10.15-08.37.21:462][495]LogBlueprintUserMessages: [Projectile_C_15] cast failed
+[2025.10.15-08.37.21:509][496]LogBlueprintUserMessages: [Projectile_C_17] Hello
+[2025.10.15-08.37.21:509][496]LogBlueprintUserMessages: [Projectile_C_17] cast failed
+[2025.10.15-08.37.21:853][502]LogBlueprintUserMessages: [Projectile_C_19] Hello
+[2025.10.15-08.37.21:853][502]LogBlueprintUserMessages: [Projectile_C_19] cast failed
+[2025.10.15-08.37.22:127][507]LogBlueprintUserMessages: [Projectile_C_20] Hello
+[2025.10.15-08.37.22:127][507]LogBlueprintUserMessages: [Projectile_C_20] cast failed
+[2025.10.15-08.37.22:292][510]LogBlueprintUserMessages: [Projectile_C_21] Hello
+[2025.10.15-08.37.22:292][510]LogBlueprintUserMessages: [Projectile_C_21] cast failed
+[2025.10.15-08.37.22:477][513]LogBlueprintUserMessages: [Projectile_C_22] Hello
+[2025.10.15-08.37.22:477][513]LogBlueprintUserMessages: [Projectile_C_22] cast failed
+[2025.10.15-08.37.22:640][516]LogBlueprintUserMessages: [Projectile_C_23] Hello
+[2025.10.15-08.37.22:642][516]LogBlueprintUserMessages: [Projectile_C_23] cast failed
+[2025.10.15-08.37.23:065][524]LogBlueprintUserMessages: [Projectile_C_24] Hello
+[2025.10.15-08.37.23:065][524]LogBlueprintUserMessages: [Projectile_C_24] cast failed
+[2025.10.15-08.37.23:236][527]LogBlueprintUserMessages: [Projectile_C_25] Hello
+[2025.10.15-08.37.23:236][527]LogBlueprintUserMessages: [Projectile_C_25] cast failed
+[2025.10.15-08.37.23:422][530]LogBlueprintUserMessages: [Projectile_C_26] Hello
+[2025.10.15-08.37.23:422][530]LogBlueprintUserMessages: [Projectile_C_26] cast failed
+[2025.10.15-08.37.23:789][536]LogBlueprintUserMessages: [Projectile_C_28] Hello
+[2025.10.15-08.37.23:789][536]LogBlueprintUserMessages: [Projectile_C_28] cast failed
+[2025.10.15-08.37.23:789][536]LogBlueprintUserMessages: [Projectile_C_27] Hello
+[2025.10.15-08.37.23:789][536]LogBlueprintUserMessages: [Projectile_C_27] cast failed
+[2025.10.15-08.38.05:886][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.15-08.38.05:887][830]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Landscape
+[2025.10.15-08.38.05:978][830]LogSlate: Window 'ZombieGame Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.113.0)' being destroyed
+[2025.10.15-08.38.05:982][830]LogWorld: UWorld::CleanupWorld for Landscape, bSessionEnded=true, bCleanupResources=true
+[2025.10.15-08.38.05:985][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-08.38.05:991][830]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.15-08.38.05:996][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-08.38.06:011][830]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.15-08.38.06:011][830]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.10.15-08.38.06:011][830]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.10.15-08.38.06:014][830]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.10.15-08.38.06:024][830]LogSlate: Slate User Unregistered.  User Index 8
+[2025.10.15-08.38.06:024][830]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.10.15-08.38.06:025][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.10.15-08.38.06:157][831]LogPlayLevel: Display: Destroying online subsystem :Context_16
