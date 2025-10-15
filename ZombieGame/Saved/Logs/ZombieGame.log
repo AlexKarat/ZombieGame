@@ -1876,3 +1876,179 @@ FPackageName: Skipped package /Game/Village/Materials/MI_PowerPole_Snowy has a v
 [2025.10.15-07.33.18:741][742]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 342.868408
 [2025.10.15-07.33.18:916][760]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.15-07.33.18:916][760]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 343.034302, Update Interval: 333.461731
+[2025.10.15-07.34.58:215][361]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.10.15-07.34.58:215][361]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_4'.
+[2025.10.15-07.34.58:305][363]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.10.15-07.34.58:305][363]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_5'.
+[2025.10.15-07.34.58:348][365]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.10.15-07.34.58:348][365]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_6'.
+[2025.10.15-07.34.58:411][370]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.10.15-07.34.58:412][370]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_7'.
+[2025.10.15-07.34.58:490][376]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.10.15-07.34.58:490][376]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_8'.
+[2025.10.15-07.35.00:644][581]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Projectile.Projectile
+[2025.10.15-07.35.00:645][581]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.10.15-07.35.00:646][581]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_9'.
+[2025.10.15-07.35.00:694][581]LogStreaming: Display: FlushAsyncLoading(363): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.15-07.35.01:726][581]LogSlate: Took 0.007644 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.15-07.35.22:177][973]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.10.15-07.35.22:177][973]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_10'.
+[2025.10.15-07.38.15:459][619]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AI/BP_ZombieCharacter.BP_ZombieCharacter
+[2025.10.15-07.38.15:459][619]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.10.15-07.38.15:460][619]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_11'.
+[2025.10.15-07.38.17:090][731]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.10.15-07.38.17:090][731]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_12'.
+[2025.10.15-07.38.17:409][768]LogSlate: Window 'BP_ZombieCharacter' being destroyed
+[2025.10.15-07.38.55:846][343]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 679.973511
+[2025.10.15-07.38.56:004][362]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-07.38.56:004][362]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 680.123413, Update Interval: 322.936493
+[2025.10.15-07.40.31:904][769]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.10.15-07.40.31:904][769]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_13'.
+[2025.10.15-07.43.36:867][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.10.15-07.44.09:048][658]LogSlate: Took 0.009592 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.10.15-07.44.12:530][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.10.15-07.44.26:050][651]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1010.176270
+[2025.10.15-07.44.26:192][668]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-07.44.26:192][669]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1010.309143, Update Interval: 314.868622
+[2025.10.15-07.45.52:889][814]LogWindowsTextInputMethodSystem: Activated input method: Italian (Italy) - (Keyboard).
+[2025.10.15-07.45.52:889][814]LogWindowsTextInputMethodSystem: Activated input method: Italian (Italy) - (Keyboard).
+[2025.10.15-07.46.46:358][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.10.15-07.46.46:392][ 42]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Landscape_Auto1
+[2025.10.15-07.46.46:392][ 42]LogSavePackage: Moving '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/Landscape_Auto1A8D8A09549F31B045646779998E240F9.tmp' to '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/Autosaves/Game/Landscape_Auto1.umap'
+[2025.10.15-07.46.46:394][ 42]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Landscape' took 0.049
+[2025.10.15-07.46.46:394][ 42]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2025.10.15-07.46.46:394][ 42]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/AI/BP_ZombieCharacter] ([2] browsable assets)...
+[2025.10.15-07.46.46:395][ 42]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.10.15-07.46.46:396][ 42]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_14'.
+[2025.10.15-07.46.46:420][ 42]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/AI/BP_ZombieCharacter.BP_ZombieCharacter_C]
+[2025.10.15-07.46.46:425][ 42]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AI/BP_ZombieCharacter.BP_ZombieCharacter]
+[2025.10.15-07.46.46:425][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BP_ZombieCharacter]
+[2025.10.15-07.46.46:438][ 42]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/AI/BP_ZombieCharacter_Auto1
+[2025.10.15-07.46.46:438][ 42]LogSavePackage: Moving '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/BP_ZombieCharacter_Auto1E31358EA4E71CEF5B69BA982873A571B.tmp' to '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/Autosaves/Game/Blueprints/AI/BP_ZombieCharacter_Auto1.uasset'
+[2025.10.15-07.46.46:440][ 42]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/Projectile] ([2] browsable assets)...
+[2025.10.15-07.46.46:445][ 42]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/Projectile.Projectile]
+[2025.10.15-07.46.46:445][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/Projectile]
+[2025.10.15-07.46.46:453][ 42]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/Projectile_Auto1
+[2025.10.15-07.46.46:454][ 42]LogSavePackage: Moving '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/Projectile_Auto1FB9212A9446F981E2F69C095B74F3E46.tmp' to '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/Autosaves/Game/VRTemplate/Blueprints/Projectile_Auto1.uasset'
+[2025.10.15-07.46.46:455][ 42]LogFileHelpers: Auto-saving content packages took 0.061
+[2025.10.15-07.48.37:446][259]LogEditorTransaction: Undo Delete current selection
+[2025.10.15-07.49.51:487][988]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1335.606323
+[2025.10.15-07.49.51:620][  4]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-07.49.51:620][  4]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1335.731323, Update Interval: 357.709290
+[2025.10.15-07.51.29:742][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.10.15-07.51.30:451][645]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-07.51.30:522][645]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AI/BP_ZombieCharacter] ([2] browsable assets)...
+[2025.10.15-07.51.30:528][645]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AI/BP_ZombieCharacter.BP_ZombieCharacter]
+[2025.10.15-07.51.30:528][645]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BP_ZombieCharacter]
+[2025.10.15-07.51.30:536][645]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BP_ZombieCharacter
+[2025.10.15-07.51.30:538][645]LogSavePackage: Moving '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/BP_ZombieCharacterCC8C59D44A6361962CD4A7AB3D771496.tmp' to '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/Blueprints/AI/BP_ZombieCharacter.uasset'
+[2025.10.15-07.51.30:548][645]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.833 ms (total: 256.076 ms)
+[2025.10.15-07.51.30:624][645]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-07.51.30:624][645]LogContentValidation: Enabled validators:
+[2025.10.15-07.51.30:624][645]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-07.51.30:624][645]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-07.51.30:624][645]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-07.51.30:624][645]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-07.51.30:624][645]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-07.51.30:624][645]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-07.51.30:624][645]AssetCheck: /Game/Blueprints/AI/BP_ZombieCharacter Validating asset
+[2025.10.15-07.56.06:128][481]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1710.247803
+[2025.10.15-07.56.06:287][500]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-07.56.06:287][500]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1710.397095, Update Interval: 302.299866
+[2025.10.15-07.56.07:875][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.10.15-07.56.08:620][762]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-07.56.08:689][762]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AI/BP_ZombieCharacter] ([2] browsable assets)...
+[2025.10.15-07.56.08:696][762]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AI/BP_ZombieCharacter.BP_ZombieCharacter]
+[2025.10.15-07.56.08:696][762]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BP_ZombieCharacter]
+[2025.10.15-07.56.08:705][762]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BP_ZombieCharacter
+[2025.10.15-07.56.08:705][762]LogSavePackage: Moving '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/BP_ZombieCharacter48C712744A365D5CBB7AD1B7928B0DEB.tmp' to '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/Blueprints/AI/BP_ZombieCharacter.uasset'
+[2025.10.15-07.56.08:715][762]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.457 ms (total: 350.534 ms)
+[2025.10.15-07.56.08:785][762]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-07.56.08:785][762]LogContentValidation: Enabled validators:
+[2025.10.15-07.56.08:785][762]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-07.56.08:785][762]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-07.56.08:785][762]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-07.56.08:785][762]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-07.56.08:785][762]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-07.56.08:785][762]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-07.56.08:785][762]AssetCheck: /Game/Blueprints/AI/BP_ZombieCharacter Validating asset
+[2025.10.15-07.56.46:597][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.15-07.56.46:640][496]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Landscape_Auto2
+[2025.10.15-07.56.46:640][496]LogSavePackage: Moving '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/Landscape_Auto2A7DB5EE240D863D3487FAA9A7A48C942.tmp' to '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/Autosaves/Game/Landscape_Auto2.umap'
+[2025.10.15-07.56.46:642][496]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Landscape' took 0.069
+[2025.10.15-07.56.46:642][496]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.069
+[2025.10.15-07.56.46:642][496]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VRTemplate/Blueprints/Projectile] ([2] browsable assets)...
+[2025.10.15-07.56.46:642][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/Projectile]
+[2025.10.15-07.56.46:650][496]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/Projectile_Auto2
+[2025.10.15-07.56.46:650][496]LogSavePackage: Moving '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/Projectile_Auto28BDE1D5C498C88DCFF3152A390701EEB.tmp' to '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/Autosaves/Game/VRTemplate/Blueprints/Projectile_Auto2.uasset'
+[2025.10.15-07.56.46:651][496]LogFileHelpers: Auto-saving content packages took 0.010
+[2025.10.15-08.01.41:749][610]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2045.875732
+[2025.10.15-08.01.42:750][613]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-08.01.42:750][613]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2046.548096, Update Interval: 334.177673
+[2025.10.15-08.02.00:986][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.10.15-08.02.01:622][950]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-08.02.01:697][950]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/Projectile] ([2] browsable assets)...
+[2025.10.15-08.02.01:705][950]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/Projectile.Projectile]
+[2025.10.15-08.02.01:705][950]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/Projectile]
+[2025.10.15-08.02.01:714][950]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Projectile
+[2025.10.15-08.02.01:715][950]LogSavePackage: Moving '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/ProjectileD3437CFE47A3F2B4E1BB17BD37AEA639.tmp' to '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/VRTemplate/Blueprints/Projectile.uasset'
+[2025.10.15-08.02.01:727][950]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.951 ms (total: 456.486 ms)
+[2025.10.15-08.02.01:800][950]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-08.02.01:800][950]LogContentValidation: Enabled validators:
+[2025.10.15-08.02.01:800][950]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-08.02.01:800][950]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-08.02.01:800][950]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-08.02.01:800][950]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-08.02.01:800][950]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-08.02.01:800][950]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-08.02.01:800][950]AssetCheck: /Game/VRTemplate/Blueprints/Projectile Validating asset
+[2025.10.15-08.06.19:868][942]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-08.06.19:963][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Landscape" FILE="../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/Landscape.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.15-08.06.20:003][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.10.15-08.06.20:044][942]LogSavePackage: Moving output files for package: /Game/Landscape
+[2025.10.15-08.06.20:045][942]LogSavePackage: Moving '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/LandscapeA1C5FE1443788B714CD120B662901EED.tmp' to '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/Landscape.umap'
+[2025.10.15-08.06.20:055][942]LogFileHelpers: Saving map 'Landscape' took 0.092
+[2025.10.15-08.06.20:069][942]LogFileHelpers: InternalPromptForCheckoutAndSave took 200.430 ms (total: 656.917 ms)
+[2025.10.15-08.06.20:146][942]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-08.06.20:146][942]LogContentValidation: Enabled validators:
+[2025.10.15-08.06.20:146][942]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-08.06.20:146][942]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-08.06.20:146][942]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-08.06.20:146][942]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-08.06.20:146][942]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-08.06.20:146][942]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-08.06.20:146][942]AssetCheck: /Game/Landscape Validating asset
+[2025.10.15-08.06.22:240][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.10.15-08.06.22:625][200]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-08.06.22:695][200]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AI/BP_ZombieCharacter] ([2] browsable assets)...
+[2025.10.15-08.06.22:701][200]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AI/BP_ZombieCharacter.BP_ZombieCharacter]
+[2025.10.15-08.06.22:701][200]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BP_ZombieCharacter]
+[2025.10.15-08.06.22:710][200]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BP_ZombieCharacter
+[2025.10.15-08.06.22:710][200]LogSavePackage: Moving '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/BP_ZombieCharacterD2F5B37B49C97DAD36506FB834DE38B6.tmp' to '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/Blueprints/AI/BP_ZombieCharacter.uasset'
+[2025.10.15-08.06.22:719][200]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.256 ms (total: 751.173 ms)
+[2025.10.15-08.06.22:788][200]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-08.06.22:788][200]LogContentValidation: Enabled validators:
+[2025.10.15-08.06.22:788][200]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-08.06.22:788][200]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-08.06.22:788][200]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-08.06.22:788][200]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-08.06.22:788][200]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-08.06.22:788][200]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-08.06.22:788][200]AssetCheck: /Game/Blueprints/AI/BP_ZombieCharacter Validating asset
+[2025.10.15-08.06.23:881][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.10.15-08.06.24:276][358]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-08.06.24:341][358]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/Projectile] ([2] browsable assets)...
+[2025.10.15-08.06.24:347][358]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/Projectile.Projectile]
+[2025.10.15-08.06.24:347][358]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/Projectile]
+[2025.10.15-08.06.24:354][358]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Projectile
+[2025.10.15-08.06.24:355][358]LogSavePackage: Moving '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/Projectile675DFCA342DF4EC1887C9C9B001DEFC1.tmp' to '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/VRTemplate/Blueprints/Projectile.uasset'
+[2025.10.15-08.06.24:366][358]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.815 ms (total: 840.988 ms)
+[2025.10.15-08.06.24:437][358]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-08.06.24:437][358]LogContentValidation: Enabled validators:
+[2025.10.15-08.06.24:437][358]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-08.06.24:437][358]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-08.06.24:437][358]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-08.06.24:437][358]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-08.06.24:437][358]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-08.06.24:437][358]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-08.06.24:437][358]AssetCheck: /Game/VRTemplate/Blueprints/Projectile Validating asset
