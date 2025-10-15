@@ -2050,3 +2050,141 @@ FPackageName: Skipped package /Game/Village/Materials/MI_PowerPole_Snowy has a v
 [2025.10.15-08.18.15:680][279]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.15-08.18.15:682][279]AssetCheck: /Game/VRTemplate/Blueprints/Projectile Validating asset
 [2025.10.15-08.18.23:866][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.10.15-08.19.17:080][114]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 362.883820
+[2025.10.15-08.19.18:080][117]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-08.19.18:080][117]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 363.549805, Update Interval: 340.125122
+[2025.10.15-08.22.06:280][836]LogSlate: Took 0.028926 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.10.15-08.23.53:921][131]LogEditorTransaction: Undo Delete current selection
+[2025.10.15-08.23.54:146][136]LogEditorTransaction: Undo Move Node
+[2025.10.15-08.23.54:397][142]LogEditorTransaction: Undo Add Node
+[2025.10.15-08.23.54:816][180]LogEditorTransaction: Undo Delete current selection
+[2025.10.15-08.23.55:189][212]LogEditorTransaction: Undo Move Node
+[2025.10.15-08.23.55:682][256]LogEditorTransaction: Undo Move Node
+[2025.10.15-08.23.56:064][292]LogEditorTransaction: Undo Move Node
+[2025.10.15-08.23.56:442][325]LogEditorTransaction: Undo Add Node
+[2025.10.15-08.23.56:844][363]LogEditorTransaction: Undo Move Node
+[2025.10.15-08.23.57:274][404]LogEditorTransaction: Undo Move Node
+[2025.10.15-08.23.57:637][437]LogEditorTransaction: Undo Break Pin Links
+[2025.10.15-08.24.20:773][153]LogEditorTransaction: Undo Move Node
+[2025.10.15-08.24.21:396][183]LogEditorTransaction: Undo Move Node
+[2025.10.15-08.24.21:851][228]LogEditorTransaction: Undo Create Pin Link
+[2025.10.15-08.24.22:376][281]LogEditorTransaction: Undo Move Node
+[2025.10.15-08.24.22:867][330]LogEditorTransaction: Undo Create Pin Link
+[2025.10.15-08.24.23:275][369]LogEditorTransaction: Undo Add Node
+[2025.10.15-08.24.23:699][410]LogEditorTransaction: Undo Delete current selection
+[2025.10.15-08.24.24:131][452]LogEditorTransaction: Undo Create Pin Link
+[2025.10.15-08.24.24:538][491]LogEditorTransaction: Undo Create Pin Link
+[2025.10.15-08.24.25:008][505]LogEditorTransaction: Undo Move Node
+[2025.10.15-08.24.25:454][546]LogEditorTransaction: Undo Add Node
+[2025.10.15-08.24.25:897][589]LogEditorTransaction: Undo Delete current selection
+[2025.10.15-08.24.26:321][630]LogEditorTransaction: Undo Move Node
+[2025.10.15-08.24.26:720][668]LogEditorTransaction: Undo Add Node
+[2025.10.15-08.24.27:127][707]LogEditorTransaction: Undo Change Parameter Type
+[2025.10.15-08.24.27:542][746]LogEditorTransaction: Undo Rename Variable
+[2025.10.15-08.24.27:964][786]LogEditorTransaction: Undo Add Variable
+[2025.10.15-08.24.28:387][826]LogEditorTransaction: Undo Move Node
+[2025.10.15-08.24.34:266][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.10.15-08.25.00:091][521]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 705.896118
+[2025.10.15-08.25.00:232][538]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-08.25.00:232][538]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 706.029785, Update Interval: 339.552002
+[2025.10.15-08.27.50:429][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.10.15-08.27.51:663][265]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-08.27.51:732][265]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AI/BP_ZombieCharacter] ([2] browsable assets)...
+[2025.10.15-08.27.51:740][265]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AI/BP_ZombieCharacter.BP_ZombieCharacter]
+[2025.10.15-08.27.51:740][265]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BP_ZombieCharacter]
+[2025.10.15-08.27.51:748][265]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BP_ZombieCharacter
+[2025.10.15-08.27.51:749][265]LogSavePackage: Moving '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/BP_ZombieCharacter06EACB284F6A209F108BCF8E5623D915.tmp' to '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/Blueprints/AI/BP_ZombieCharacter.uasset'
+[2025.10.15-08.27.51:759][265]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.247 ms (total: 188.452 ms)
+[2025.10.15-08.27.51:829][265]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-08.27.51:829][265]LogContentValidation: Enabled validators:
+[2025.10.15-08.27.51:829][265]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-08.27.51:829][265]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-08.27.51:829][265]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-08.27.51:829][265]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-08.27.51:829][265]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-08.27.51:829][265]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-08.27.51:829][265]AssetCheck: /Game/Blueprints/AI/BP_ZombieCharacter Validating asset
+[2025.10.15-08.28.01:028][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.15-08.28.01:871][844]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-08.28.01:955][844]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AI/BP_ZombieCharacter] ([2] browsable assets)...
+[2025.10.15-08.28.01:965][844]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AI/BP_ZombieCharacter.BP_ZombieCharacter]
+[2025.10.15-08.28.01:965][844]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BP_ZombieCharacter]
+[2025.10.15-08.28.01:974][844]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BP_ZombieCharacter
+[2025.10.15-08.28.01:974][844]LogSavePackage: Moving '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/BP_ZombieCharacter63E146CE403A2C4689A6EA97FDE46237.tmp' to '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/Blueprints/AI/BP_ZombieCharacter.uasset'
+[2025.10.15-08.28.01:983][844]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.292 ms (total: 300.744 ms)
+[2025.10.15-08.28.02:071][844]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-08.28.02:071][844]LogContentValidation: Enabled validators:
+[2025.10.15-08.28.02:071][844]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-08.28.02:071][844]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-08.28.02:071][844]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-08.28.02:071][844]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-08.28.02:071][844]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-08.28.02:071][844]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-08.28.02:071][844]AssetCheck: /Game/Blueprints/AI/BP_ZombieCharacter Validating asset
+[2025.10.15-08.30.34:526][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.10.15-08.30.35:363][966]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-08.30.35:423][966]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/Projectile] ([2] browsable assets)...
+[2025.10.15-08.30.35:428][966]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/Projectile.Projectile]
+[2025.10.15-08.30.35:428][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/Projectile]
+[2025.10.15-08.30.35:436][966]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Projectile
+[2025.10.15-08.30.35:437][966]LogSavePackage: Moving '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/Projectile59BFF6944C367A5B7FC19A9C8DE09BAC.tmp' to '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/VRTemplate/Blueprints/Projectile.uasset'
+[2025.10.15-08.30.35:450][966]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.418 ms (total: 388.162 ms)
+[2025.10.15-08.30.35:524][966]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-08.30.35:524][966]LogContentValidation: Enabled validators:
+[2025.10.15-08.30.35:524][966]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-08.30.35:524][966]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-08.30.35:524][966]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-08.30.35:524][966]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-08.30.35:524][966]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-08.30.35:524][966]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-08.30.35:526][966]AssetCheck: /Game/VRTemplate/Blueprints/Projectile Validating asset
+[2025.10.15-08.30.45:009][533]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1050.815430
+[2025.10.15-08.30.45:176][543]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-08.30.45:176][543]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1050.965210, Update Interval: 314.125183
+[2025.10.15-08.31.55:299][716]LogWindowsTextInputMethodSystem: Activated input method: Greek (Greece) - (Keyboard).
+[2025.10.15-08.31.55:299][716]LogWindowsTextInputMethodSystem: Activated input method: Greek (Greece) - (Keyboard).
+[2025.10.15-08.32.00:108][  5]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.10.15-08.32.00:109][  5]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.10.15-08.32.04:791][286]LogWindowsTextInputMethodSystem: Activated input method: Italian (Italy) - (Keyboard).
+[2025.10.15-08.32.04:791][286]LogWindowsTextInputMethodSystem: Activated input method: Italian (Italy) - (Keyboard).
+[2025.10.15-08.32.47:658][799]LogEditorTransaction: Undo Move Node
+[2025.10.15-08.32.48:198][815]LogEditorTransaction: Undo Create Pin Link
+[2025.10.15-08.32.56:777][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.10.15-08.32.58:120][393]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-08.32.58:186][393]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AI/BP_ZombieCharacter] ([2] browsable assets)...
+[2025.10.15-08.32.58:193][393]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AI/BP_ZombieCharacter.BP_ZombieCharacter]
+[2025.10.15-08.32.58:193][393]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BP_ZombieCharacter]
+[2025.10.15-08.32.58:201][393]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BP_ZombieCharacter
+[2025.10.15-08.32.58:202][393]LogSavePackage: Moving '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/BP_ZombieCharacterE93BE2EE4BAE47E54D999D986D3DEEE0.tmp' to '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/Blueprints/AI/BP_ZombieCharacter.uasset'
+[2025.10.15-08.32.58:212][393]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.520 ms (total: 480.683 ms)
+[2025.10.15-08.32.58:283][393]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-08.32.58:283][393]LogContentValidation: Enabled validators:
+[2025.10.15-08.32.58:283][393]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-08.32.58:283][393]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-08.32.58:283][393]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-08.32.58:283][393]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-08.32.58:283][393]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-08.32.58:283][393]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-08.32.58:283][393]AssetCheck: /Game/Blueprints/AI/BP_ZombieCharacter Validating asset
+[2025.10.15-08.33.23:008][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.10.15-08.33.23:047][860]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Landscape_Auto1
+[2025.10.15-08.33.23:048][860]LogSavePackage: Moving '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/Landscape_Auto11A84585D472B1669A31702A72C418566.tmp' to '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/Autosaves/Game/Landscape_Auto1.umap'
+[2025.10.15-08.33.23:067][860]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Landscape' took 0.073
+[2025.10.15-08.33.23:067][860]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.073
+[2025.10.15-08.33.57:871][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.10.15-08.33.58:356][964]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-08.33.58:424][964]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AI/BP_ZombieCharacter] ([2] browsable assets)...
+[2025.10.15-08.33.58:430][964]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AI/BP_ZombieCharacter.BP_ZombieCharacter]
+[2025.10.15-08.33.58:430][964]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BP_ZombieCharacter]
+[2025.10.15-08.33.58:438][964]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BP_ZombieCharacter
+[2025.10.15-08.33.58:439][964]LogSavePackage: Moving '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Saved/BP_ZombieCharacter845F941246D846C23D11A2BEB6123430.tmp' to '../../../../../../Users/user19_14_2/Documents/GitHub/ZombieGame/ZombieGame/Content/Blueprints/AI/BP_ZombieCharacter.uasset'
+[2025.10.15-08.33.58:449][964]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.633 ms (total: 573.316 ms)
+[2025.10.15-08.33.58:527][964]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-08.33.58:527][964]LogContentValidation: Enabled validators:
+[2025.10.15-08.33.58:527][964]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-08.33.58:527][964]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-08.33.58:527][964]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-08.33.58:527][964]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-08.33.58:527][964]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-08.33.58:527][964]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-08.33.58:527][964]AssetCheck: /Game/Blueprints/AI/BP_ZombieCharacter Validating asset
