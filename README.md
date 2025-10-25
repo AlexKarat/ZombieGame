@@ -1,6 +1,3 @@
-Surfer game (group project)
-URL: https://github.com/MartyGee9698/SurferGame
-
 Zombie VR game( group project)
 URL: https://github.com/AlexKarat/ZombieGame
 
